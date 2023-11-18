@@ -37,9 +37,9 @@ const Contact = () => {
         'template_bvgivvt',
         {
           from_name: form.name,
-          to_name: "JavaScript Mastery",
+          to_name: "Ritish Mohapatra",
           from_email: form.email,
-          to_email: "sujata@jsmastery.pro",
+          to_email: "ritish20mohapatra@gmail.com",
           message: form.message,
         },
         'Hkwwaakg2_3WXFx4s'
